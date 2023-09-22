@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/surajagrawal01//.github.io/TextUtilis-ReactApp/static/css/main.6113f088.css",
+    "main.js": "/surajagrawal01//.github.io/TextUtilis-ReactApp/static/js/main.ed69b9d4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/surajagrawal01//.github.io/TextUtilis-ReactApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/surajagrawal01//.github.io/TextUtilis-ReactApp/index.html",
+    "main.6113f088.css.map": "/surajagrawal01//.github.io/TextUtilis-ReactApp/static/css/main.6113f088.css.map",
+    "main.ed69b9d4.js.map": "/surajagrawal01//.github.io/TextUtilis-ReactApp/static/js/main.ed69b9d4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/surajagrawal01//.github.io/TextUtilis-ReactApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6113f088.css",
+    "static/js/main.ed69b9d4.js"
+  ]
+}
